@@ -54,6 +54,7 @@
   <Project Path="Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.007.csproj" />
   <Project Path="Unity.XR.Hands.Analytics.Editor.csproj" />
+  <Project Path="Unity.RenderPipelines.Core.Samples.Runtime.csproj" />
   <Project Path="Unity.XR.CoreUtils.Editor.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.007.csproj" />
@@ -96,10 +97,12 @@
   <Project Path="UnityEngine.XR.LegacyInputHelpers.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.004.csproj" />
+  <Project Path="Unity.RenderPipelines.Core.Samples.Editor.csproj" />
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj" />
   <Project Path="Unity.XR.ARAnalytics.Editor.csproj" />
+  <Project Path="ShaderGraphVariables.csproj" />
   <Project Path="Unity.XR.ARFoundation.InternalUtils.Editor.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
   <Project Path="Unity.XR.OpenXR.TestTooling.csproj" />
@@ -109,6 +112,7 @@
   <Project Path="UnityEditor.SpatialTracking.csproj" />
   <Project Path="Unity.Rendering.LightTransport.Editor.csproj" />
   <Project Path="Unity.Collections.Editor.csproj" />
+  <Project Path="UberWaterPlannerReflection.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Config.Runtime.csproj" />
   <Project Path="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj" />
   <Project Path="Unity.RenderPipelines.Core.ShaderLibrary.csproj" />
